@@ -1,4 +1,4 @@
-[Cloudbox Repository](https://github.com/TJ-Albertson/Cloudbox) | [Cloudbox-API Repository](https://github.com/TJ-Albertson/Cloudbox-API)
+[Colosseum Repository](https://github.com/TJ-Albertson/Colosseum)
 
 # Colosseum-Logs
 
